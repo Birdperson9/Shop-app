@@ -1,0 +1,14 @@
+{
+  "name": "shop-app",
+  "version": "1.0.0",
+  "description": "MERN shopping app",
+  "main": "server",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Yevhenii Orieshkin <yorieshkin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
