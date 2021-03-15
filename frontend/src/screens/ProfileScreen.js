@@ -65,7 +65,7 @@ const ProfileScreen = ({ location, history }) => {
           </Form.Group>
 
           <Form.Group controlId='email'>
-            <Form.Label>Email adress</Form.Label>
+            <Form.Label>Email address</Form.Label>
             <Form.Control
               type='email'
               placeholder='Enter email'
