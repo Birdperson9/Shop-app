@@ -21,9 +21,12 @@
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.11.18",
+    "mongodb": "*",
+    "mongoose": "^5.12.3",
     "morgan": "*",
-    "multer": "^1.4.2"
+    "multer": "^1.4.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "concurrently": "^6.0.0",
